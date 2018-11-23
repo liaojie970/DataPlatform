@@ -56,6 +56,7 @@
 		<p class="agileinfo">
 			国家税务总局版权所有 <a href="http://www.chinatax.gov.cn/" target="_blank">国家税务总局</a>
 		</p>
+		测试轮询自动部署
 	</div>
 </body>
 </html>
